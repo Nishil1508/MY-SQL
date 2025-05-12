@@ -1,0 +1,12 @@
+contactemployeeid,contactid,employeid,contactDate,descriptions
+1,1,101,2022-01-01,"Meeting with John"
+2,2,102,2022-01-15,"Call with Jane"
+3,3,103,2022-02-01,"Email to Bob"
+4,4,104,2022-03-01,"Meeting with Alice"
+5,5,105,2022-04-01,"Call with Mike"
+6,6,106,2022-05-01,"Email to Emily"
+7,7,107,2022-06-01,"Meeting with Tom"
+8,8,108,2022-07-01,"Call with Linda"
+9,9,109,2022-08-01,"Email to Kevin"
+10,10,110,2022-09-01,"Meeting with Sarah"
+32,2,890,2002-07-09,good

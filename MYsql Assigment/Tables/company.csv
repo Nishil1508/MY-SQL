@@ -1,0 +1,14 @@
+companyid,companyname,street,city,state,zip
+1,tops,"cg road",ahmedabad,gujrat,38431
+2,mukeshindustr,"sg road",ahmedabad,gujrat,382440
+3,"DEF Ltd.","789 Oak St",Chicago,IL,60601
+4,"toll brothers","111 Ash St",Chicago,IL,60602
+5,"DEF Ltd.","222 Beech St",Chicago,IL,60603
+6,"DEF Ltd.","333 Cedar St",Chicago,IL,60604
+7,"toll brothers","444 Cypress St",Chicago,IL,60605
+8,"DEF Ltd.","555 Elm St",Chicago,IL,60606
+9,"DEF Ltd.","666 Fir St",Chicago,IL,60607
+10,"DEF Ltd.","777 Gum St",Chicago,IL,60608
+11,"DEF Ltd.","888 Hick St",Chicago,IL,60609
+12,"DEF Ltd.","999 Ivy St",Chicago,IL,60610
+13,"Urban Outfitters","gb road",russia,fedration,90910
